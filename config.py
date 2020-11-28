@@ -28,7 +28,7 @@ value is greater than 0.1
 smoothness = 0.02
 
 """ height that the z axis will use to travel between strokes """
-zTravel = 1
+zTravel = 4
 
 """ height that the z axis will use to draw """
 zDraw = 0
